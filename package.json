@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-weblineindia-fiscal-validation",
+  "version": "1.0.0",
+  "description": "A node component for validate Fiscal code as well as its properties with `nodejs-weblineindia-fiscal-validation`",
+  "homepage": "https://www.weblineindia.com/software-development-resources.html",
+  "repository": "https://github.com/weblineindia/NodeJS-DNS-Validation",
+  "author": "Weblineindia",
+  "main": "index.js",
+  "keywords": [
+    "nodejs-weblineindia-fiscal-validation",
+    "nodejs-fiscal-validation",
+    "fiscal-validation",
+    "fiscal",
+    "nodejs",
+    "node-component",
+    "nodecomponent",
+    "node"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@marketto/codice-fiscale-utils": "^2.0.1"
+  }
+}
